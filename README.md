@@ -1,4 +1,4 @@
-# Facebook-Mobile---Hide-suggested-posts
+# Facebook Mobile - Hide suggested posts
 Hide reels, follow/join suggestions, and suggested friends from Facebook mobile
 
 ** Very heavily inspired by the great work of @webdevs-sk (https://greasyfork.org/en/scripts/479868-fb-mobile-clean-my-feeds)
