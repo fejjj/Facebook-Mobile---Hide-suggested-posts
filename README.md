@@ -7,6 +7,4 @@ Since the original script is at "End of Life", I made my own version with much h
 
 It hides Reels/Sponsored/Join/Follow posts, and 'People you may know'. All are hidden by default, but if you wish to permanently enable some, there are variables that you can change in the Filter Settings at the top of the script. Just change the text 'true' to 'false' and reopen Facebook in a new tab. I also added an option to 'tap to show' the hidden posts, in case you feel curious about what content was hidden.
 
-** This has only been tested in Cromite browser on Android. Not sure about compatibility with other browsers.
-
 Enjoy :)
